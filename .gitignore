@@ -1,0 +1,23 @@
+# .gitignore
+.env
+historiales/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.db
+*.sqlite
+demo-finetuning/
+mi-modelo-finetuned/
+llama3-custom/
+llama3-finetuned/
